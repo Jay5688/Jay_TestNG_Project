@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="test.Hotel_App_Test"/>
+      <class name="test.Jay_Hotel_App"/>
+      <class name="test.Jay_Hotel_App3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
